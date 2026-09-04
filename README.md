@@ -3,7 +3,6 @@ app, no hassle.
 
 **Get started**:
 - Clone the project
-
 ```git clone https://github.com/a6gitti/workout-tracker.git ```
 
 - Open the folder:
