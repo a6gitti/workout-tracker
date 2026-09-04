@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Workout Tracker
+Comment=Log and track your workouts
+Exec=sh -c 'cd "$(dirname "%k")" && python3 workout_app.py'
+Icon=icon.png
+Path=.
+Terminal=false
+Categories=Utility;Sports;
